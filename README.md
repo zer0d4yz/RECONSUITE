@@ -8,25 +8,31 @@ A Linux Command Line based interactive tool that can be used to perform well kno
 
 ![Network](https://user-images.githubusercontent.com/109734299/236384183-80e62f41-b872-4959-8117-7b0fb4520fbc.png)
 
-<strong>Network Attacks:</strong><br />
-    1. Change MAC Address<br />
-    2. Scan Network for clients<br />
-    3. ARP Spoofing<br />
-    4. DNS Spoofing<br />
-    5. Packet Sniffing<br />
-    6. Port Scanning<br />
+<h3><strong>Network Attacks:</strong></h3><br />
+<ol>
+<li>Change MAC Address</li>
+<li>Scan Network for clients</li>
+<li>ARP Spoofing</li>
+<li>DNS Spoofing</li>
+<li>Packet Sniffing</li>
+<li>Port Scanning</li>
+</ol>
 
 <hr />
 
 ![Web](https://user-images.githubusercontent.com/109734299/236384179-c8026db9-a53d-4587-98b8-bfaf538298f3.png)
 
-<strong>Web Application Attacks:</strong><br />
-    1. Guess login information of a website (Dictionary Attack)<br />
-    2. Crawl website for hidden subdomains<br />
-    3. Crawl website for hidden subdirectories<br />
-    4. Crawl website for href links<br />
-    
-To run this tool:<br />
+<h3><strong>Web Application Attacks:</strong></h3><br />
+<ol>
+<li>Guess login information of a website (Dictionary Attack)</li>
+<li>Crawl website for hidden subdomains</li>
+<li>Crawl website for hidden subdirectories</li>
+<li>Crawl website for href links</li>
+</ol>
+
+<hr />
+
+<h3>To run this tool:</h3><br />
 
 1. git clone https://github.com/zer0d4yz/RECONSUITE.git
 2. Extract files using -> tar -xvf ReconSuite.tar.gz
