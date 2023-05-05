@@ -8,7 +8,7 @@ A Linux Command Line based interactive tool that can be used to perform well kno
 
 ![Network](https://user-images.githubusercontent.com/109734299/236384183-80e62f41-b872-4959-8117-7b0fb4520fbc.png)
 
-<h3><strong>Network Attacks:</strong></h3><br />
+<h3><strong>Network Attacks:</strong></h3>
 <ol>
 <li>Change MAC Address</li>
 <li>Scan Network for clients</li>
@@ -22,7 +22,7 @@ A Linux Command Line based interactive tool that can be used to perform well kno
 
 ![Web](https://user-images.githubusercontent.com/109734299/236384179-c8026db9-a53d-4587-98b8-bfaf538298f3.png)
 
-<h3><strong>Web Application Attacks:</strong></h3><br />
+<h3><strong>Web Application Attacks:</strong></h3>
 <ol>
 <li>Guess login information of a website (Dictionary Attack)</li>
 <li>Crawl website for hidden subdomains</li>
@@ -32,7 +32,7 @@ A Linux Command Line based interactive tool that can be used to perform well kno
 
 <hr />
 
-<h3>To run this tool:</h3><br />
+<h3>To run this tool:</h3>
 
 1. git clone https://github.com/zer0d4yz/RECONSUITE.git
 2. Extract files using -> tar -xvf ReconSuite.tar.gz
