@@ -40,4 +40,5 @@ A Linux Command Line based interactive tool that can be used to perform well kno
 4. Run using ./reconx
 
 NOTE: This project is developed as part of Final Year Major Project for the year 2022-23.
+<strong><h4>Install Python 3.10 or higher before running this tool.</h4></strong>
  
